@@ -1,0 +1,7 @@
+hello!!
+man!
+<<<<<<< HEAD
+new line fix!
+=======
+new line from dev!
+>>>>>>> dev
